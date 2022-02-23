@@ -6,7 +6,7 @@
 
         -   Regresyon analizini bir denklem olarak düşünebilirsiniz. Örneğin, y = 2x + z denkleminde y bağımlı değişken ve x ile z bağımsız değişkenlerdir. Regresyon analizi, x ve z’nin y’nin değerini ne kadar etkilediğini bulur.
 
-## Farklı sınıflandırma algoritmalarından bazıları şunlardır;
+## Farklı regresyon algoritmalarından bazıları şunlardır;
 
 ### Doğrusal Regresyon (Linear Regression)
 
