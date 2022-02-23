@@ -4,7 +4,9 @@
 
 * Sınıflandırma algoritmaları, yeni bir öğenin tanımlanan kategorilerden birine girme olasılığını hesaplamak için eğitim verilerinin kategorizasyonunu kullanır.
 
-        -   Regresyon analizini bir denklem olarak düşünebilirsiniz. Örneğin, y = 2x + z denkleminde y bağımlı değişken ve x ile z bağımsız değişkenlerdir. Regresyon analizi, x ve z’nin y’nin değerini ne kadar etkilediğini bulur.
+        - Regresyon analizini bir denklem olarak düşünebilirsiniz. 
+        - Örneğin, y = 2x + z denkleminde y bağımlı değişken ve x ile z bağımsız değişkenlerdir. 
+        - Regresyon analizi, x ve z’nin y’nin değerini ne kadar etkilediğini bulur.
 
 ## Farklı regresyon algoritmalarından bazıları şunlardır;
 
